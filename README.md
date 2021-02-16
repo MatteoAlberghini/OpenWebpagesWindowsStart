@@ -1,4 +1,4 @@
-# Load Web Pages when Windows starts
+# Load webpages when Windows starts
 
 Simple script that opens default browser pages.
 
